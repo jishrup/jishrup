@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Jishnu Suresh
 
-I'm a **Software Engineer** with expertise in **system programming**, **database systems**, and **full-stack development**. Armed with a **Master's in Computer Science** from **USC** and 3.5+ years of industry experience, I build high-performance, scalable solutions to tackle real-world challenges. From optimizing database engines to designing robust backend systems, I thrive on solving complex engineering problems.
+I'm a **Software Engineer** with expertise in **system programming**, **database systems**, and **full-stack development**. With a **Master's in Computer Science** from **USC** and 3.5+ years of professional experience, I specialize in building scalable, high-performance solutions to solve real-world challenges. From optimizing database engines to architecting robust systems, I am passionate about innovation and problem-solving.
 
 ---
 
@@ -8,7 +8,7 @@ I'm a **Software Engineer** with expertise in **system programming**, **database
 
 #### System Engineering
 - **Languages**: C, C++, Python, Java, Bash/Shell Scripting  
-- **Database Systems**: PostgreSQL, DuckDB (extensions for learned indexes like RadixSpline, PGM), SQL  
+- **Database Systems**: PostgreSQL, DuckDB (learned indexes like RadixSpline, PGM), BusTub, SQL  
 - **Performance Optimization**: Multithreading, Buffer Management, Query Optimization  
 - **Kernel Development**: Process/Thread Management, Virtual Memory, Synchronization  
 - **Tools**: Git, Jenkins, VTune, CMake  
@@ -22,9 +22,10 @@ I'm a **Software Engineer** with expertise in **system programming**, **database
 ---
 
 ### 🌟 Highlights
-- **Database Innovations**: Integrated **state-of-the-art learned indexes** (PGM, Alex, RadixSpline) into **DuckDB**, achieving significant query latency reductions and leveraging Python & Matplotlib for performance visualization.  
-- **TallyPrime 3.0**: Led the design and development of a premier accounting software used by 2M+ users, optimizing system efficiency and scalability.  
-- **PostgreSQL Development**: Implemented a new buffer management policy, benchmarking FIFO against Clock-Sweep, to enhance memory efficiency.  
+- **TallyPrime 3.0**: Led the development of a premier accounting software used by 2M+ users, improving system efficiency and scalability. (Repo Not Available : Private to the company)
+- **DuckDB Enhancements**: Integrated **learned indexes** (PGM, Alex, RadixSpline) into **DuckDB**, achieving significant query latency reductions and leveraging Python & Matplotlib for performance analysis.  
+- **BusTub Development**: Engineered key components such as the buffer pool manager, indexing with extendible hashing, and query execution, ensuring robust scalability and performance.  
+- **PostgreSQL Optimization**: Implemented a new FIFO buffer management policy, benchmarking it against Clock-Sweep to enhance memory efficiency.  
 
 ---
 
